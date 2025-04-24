@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: waysd8hpp-go-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/waysd8hpp-go-gitops
